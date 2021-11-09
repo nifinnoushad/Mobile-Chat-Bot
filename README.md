@@ -7,8 +7,9 @@ Description: This Project is a Mobile chatbot for a curbside pickup for a restau
 
 User Instructions :
 
-1. Use Google chrome for accessing the site. 
+1. Use Google chrome for accessing the site. It is not mandatory, but its recommended. 
 2. The link to access the site is https://mobile-chat-bot.herokuapp.com
-3. Site will not work other than google chrome. We will be fixing this issue on next deployment.
+3. Site will work better in google chrome.
 4. Once the site launches use "hello/hi/hai" keuword to start the chat bot.
 5. Chat with the chatbot and place your order.
+  
